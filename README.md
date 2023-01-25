@@ -31,7 +31,7 @@ A selection of articles written by me. Specialist subjects include games, photog
     <table>
     <tr>    
         <td><a href="https://github.com/JonLysons/Writing_Portfolio/blob/main/iBomber_REVIEW.pdf">
-        <img src="https://user-images.githubusercontent.com/117950069/214698988-9795cd14-215c-4248-9824-5eecd5546fa0.jpg" alt="iPhone app reviews"
+        <img src="https://user-images.githubusercontent.com/117950069/214716163-bc9f9d65-61ee-49ac-a123-5630f690a178.jpg" alt="iPhone app reviews"
         width="200" align="center"/>
             </a></td>
         <td>&nbsp; &nbsp;</td>
@@ -129,3 +129,6 @@ A selection of articles written by me. Specialist subjects include games, photog
     </tr> 
     </table> <br/>    
 </div>
+
+
+![iBomber_MysticalTint](https://user-images.githubusercontent.com/117950069/214716163-bc9f9d65-61ee-49ac-a123-5630f690a178.jpg)
