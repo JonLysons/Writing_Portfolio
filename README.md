@@ -78,8 +78,54 @@ A selection of articles written by me. Specialist subjects include games, photog
         <td align="center">Manage Photos in Aperture</td>
     </tr> 
     </table> <br/>
+    <table>
+    <tr>    
+        <td><a href="https://www.circlehealthgroup.co.uk/treatments/kneecap-joint-replacement-surgery">
+        <img src="https://user-images.githubusercontent.com/117950069/214711246-42540fd6-84e1-4afe-b355-8b7c678988d4.png" alt="Kneecap Surgery"
+        width="200" align="center"/>
+            </a></td>
+        <td>&nbsp; &nbsp;</td>
+        <td><a href="https://www.circlehealthgroup.co.uk/treatments/knee-ligament-injury">
+        <img src="https://user-images.githubusercontent.com/117950069/214711275-d5072fff-7444-4469-ba96-507631b82bbf.png" alt="Knee Ligament"
+        width="200" align="center"/>
+            </a> </td>
+        <td>&nbsp; &nbsp;</td>
+        <td><a href="https://www.circlehealthgroup.co.uk/treatments/knee-osteoarthritis">
+        <img src="https://user-images.githubusercontent.com/117950069/214711301-2ca2150b-c172-415c-8aad-23b6f3298f72.png" alt="Knee Osteoarthritis"
+        width="200" align="center"/>
+            </a> </td>
+    </tr>
+    <tr>
+        <td align="center">Kneecap Surgery</td>
+        <td>&nbsp;</td>
+        <td align="center">Knee Ligament</td>
+        <td>&nbsp;</td>
+        <td align="center">Knee Osteoarthritis</td>
+    </tr> 
+    </table> <br/>
+    <table>
+    <tr>    
+        <td><a href="https://www.circlehealthgroup.co.uk/treatments/navio-robotics-assisted-knee-surgery">
+        <img src="https://user-images.githubusercontent.com/117950069/214711311-b63c0327-cb8d-4112-8fb9-657a3721105a.png" alt="Knee Surgery"
+        width="200" align="center"/>
+            </a></td>
+        <td>&nbsp; &nbsp;</td>
+        <td><a href="https://www.circlehealthgroup.co.uk/specialities/hip-surgery">
+        <img src="https://user-images.githubusercontent.com/117950069/214711328-da2b7d0f-861d-40ad-8bfa-1cedc3ab396f.png" alt="Hip Surgery"
+        width="200" align="center"/>
+            </a> </td>
+        <td>&nbsp; &nbsp;</td>
+        <td><a href="https://www.circlehealthgroup.co.uk/treatments/mako-robotic-arm-assisted-knee-surgery">
+        <img src="https://user-images.githubusercontent.com/117950069/214711531-93a44c4a-f01b-4182-8a34-0735e59dcfff.png" alt="Knee Surgery"
+        width="200" align="center"/>
+            </a> </td>
+    </tr>
+    <tr>
+        <td align="center">Knee Surgery</td>
+        <td>&nbsp;</td>
+        <td align="center">Hip Surgery</td>
+        <td>&nbsp;</td>
+        <td align="center">Knee Surgery</td>
+    </tr> 
+    </table> <br/>    
 </div>
-
-
-
-
