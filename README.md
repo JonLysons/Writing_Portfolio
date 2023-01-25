@@ -31,7 +31,7 @@ A selection of articles written by me. Specialist subjects include games, photog
     <table>
     <tr>    
         <td><a href="https://github.com/JonLysons/Writing_Portfolio/blob/main/iBomber_REVIEW.pdf">
-        <img src="https://user-images.githubusercontent.com/117950069/214696636-602dc033-ae15-46f6-b236-61ff0b0dfa45.jpg" alt="iPhone app reviews"
+        <img src="https://user-images.githubusercontent.com/117950069/214698988-9795cd14-215c-4248-9824-5eecd5546fa0.jpg" alt="iPhone app reviews"
         width="200" align="center"/>
             </a></td>
         <td>&nbsp; &nbsp;</td>
@@ -56,17 +56,17 @@ A selection of articles written by me. Specialist subjects include games, photog
         <table>
     <tr>    
         <td><a href="https://github.com/JonLysons/Writing_Portfolio/blob/main/ApertureTutorial.pdf">
-        <img src="https://user-images.githubusercontent.com/117950069/214640384-49078250-d02e-4395-830f-da792d25291a.jpg" alt="Aperture Tutorial"
+        <img src="https://user-images.githubusercontent.com/117950069/214698749-df922e3a-1de2-4075-a743-39392ed04677.jpg" alt="Aperture Tutorial"
         width="200" align="center"/>
             </a></td>
         <td>&nbsp; &nbsp;</td>
         <td><a href="https://github.com/JonLysons/Writing_Portfolio/blob/main/ApertureTutorial_2.pdf">
-        <img src="https://user-images.githubusercontent.com/117950069/214640384-49078250-d02e-4395-830f-da792d25291a.jpg" alt="Aperture Tutorial"
+        <img src="https://user-images.githubusercontent.com/117950069/214698742-acaae84b-99ef-4824-9f8c-95193014d5ed.jpg" alt="Aperture Tutorial"
         width="200" align="center"/>
             </a> </td>
         <td>&nbsp; &nbsp;</td>
         <td><a href="https://github.com/JonLysons/Writing_Portfolio/blob/main/ApertureTutorial_3.pdf">
-        <img src="https://user-images.githubusercontent.com/117950069/214640384-49078250-d02e-4395-830f-da792d25291a.jpg" alt="Aperture Tutorial"
+        <img src="https://user-images.githubusercontent.com/117950069/214698724-6aa189db-58dd-4604-a5e9-f3e09ab89572.jpg" alt="Aperture Tutorial"
         width="200" align="center"/>
             </a> </td>
     </tr>
@@ -80,9 +80,6 @@ A selection of articles written by me. Specialist subjects include games, photog
     </table> <br/>
 </div>
 
-![iBomber_Thumb](https://user-images.githubusercontent.com/117950069/214696636-602dc033-ae15-46f6-b236-61ff0b0dfa45.jpg)
 
 
-![InDesign_Grids_Thumb](https://user-images.githubusercontent.com/117950069/214696362-da01e5ca-90be-4b85-a654-6105f4244544.jpg)
 
-![InDesign_Style_Thumb](https://user-images.githubusercontent.com/117950069/214696560-adba1dee-86cd-42ad-ac3b-95e0796ab8af.jpg)
