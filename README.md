@@ -31,17 +31,17 @@ A selection of articles written by me. Specialist subjects include games, photog
     <table>
     <tr>    
         <td><a href="https://github.com/JonLysons/Writing_Portfolio/blob/main/iBomber_REVIEW.pdf">
-        <img src="https://user-images.githubusercontent.com/117950069/214640384-49078250-d02e-4395-830f-da792d25291a.jpg" alt="iPhone app reviews"
+        <img src="https://user-images.githubusercontent.com/117950069/214696636-602dc033-ae15-46f6-b236-61ff0b0dfa45.jpg" alt="iPhone app reviews"
         width="200" align="center"/>
             </a></td>
         <td>&nbsp; &nbsp;</td>
         <td><a href="https://github.com/JonLysons/Writing_Portfolio/blob/main/InDesignTutorial_1.pdf">
-        <img src="https://user-images.githubusercontent.com/117950069/214640384-49078250-d02e-4395-830f-da792d25291a.jpg" alt="InDesign tutorial"
+        <img src="https://user-images.githubusercontent.com/117950069/214696362-da01e5ca-90be-4b85-a654-6105f4244544.jpg" alt="InDesign tutorial"
         width="200" align="center"/>
             </a> </td>
         <td>&nbsp; &nbsp;</td>
         <td><a href="https://github.com/JonLysons/Writing_Portfolio/blob/main/InDesignTutorial_2.pdf">
-        <img src="https://user-images.githubusercontent.com/117950069/214640384-49078250-d02e-4395-830f-da792d25291a.jpg" alt="InDesign tutorial"
+        <img src="https://user-images.githubusercontent.com/117950069/214696560-adba1dee-86cd-42ad-ac3b-95e0796ab8af.jpg" alt="InDesign tutorial"
         width="200" align="center"/>
             </a> </td>
     </tr>
@@ -80,3 +80,9 @@ A selection of articles written by me. Specialist subjects include games, photog
     </table> <br/>
 </div>
 
+![iBomber_Thumb](https://user-images.githubusercontent.com/117950069/214696636-602dc033-ae15-46f6-b236-61ff0b0dfa45.jpg)
+
+
+![InDesign_Grids_Thumb](https://user-images.githubusercontent.com/117950069/214696362-da01e5ca-90be-4b85-a654-6105f4244544.jpg)
+
+![InDesign_Style_Thumb](https://user-images.githubusercontent.com/117950069/214696560-adba1dee-86cd-42ad-ac3b-95e0796ab8af.jpg)
