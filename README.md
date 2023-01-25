@@ -56,6 +56,6 @@ A selection of articles written by me. Specialist subjects include games, photog
         <td>&nbsp;</td>
         <td align="center">Focus On Imaging feature</td>
     </tr> 
-    </table>
+    </table> <br/>
 </div>
 
