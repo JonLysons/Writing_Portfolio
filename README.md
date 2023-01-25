@@ -1,6 +1,6 @@
 # Writing Portfolio
 
-A selection of articles that I’ve written. Specialist subjects include games, photography, software, graphic design, but I have written about on a diverse range of topics from healthcare and recycling to giftware and television.
+A selection of articles written by. Specialist subjects include games, photography, software, graphic design, however, I have also written on a diverse range of topics from healthcare and recycling to the retail and broadcast industry.
 
 [BattleStations feature](https://github.com/JonLysons/Writing_Portfolio/blob/main/BattleStations.pdf)
 
