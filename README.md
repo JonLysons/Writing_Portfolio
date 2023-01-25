@@ -6,18 +6,26 @@ A selection of articles written by me. Specialist subjects include games, photog
 [Focus On Imaging feature](https://github.com/JonLysons/Writing_Portfolio/blob/main/FocusOnImaging%202.pdf)
 
 
-
-
 <div align="center">
-    <kbd>BattleStations feature</kbd>
-    <a href="https://github.com/JonLysons/Writing_Portfolio/blob/main/BattleStations.pdf">
+    <table border="0">
+    <tr>
+        <td>BattleStations feature</td>
+        <td>Focus On Imaging feature</td>
+        <td>Focus On Imaging feature</td>
+    </tr> 
+    <td><a href="https://github.com/JonLysons/Writing_Portfolio/blob/main/BattleStations.pdf">
         <img src="https://user-images.githubusercontent.com/117950069/214640384-49078250-d02e-4395-830f-da792d25291a.jpg" alt="BattleStations feature"
         width="200"/>
-    </a>
-        <kbd>Focus On Imaging feature</kbd>
-    <a href="https://github.com/JonLysons/Writing_Portfolio/blob/main/FocusOnImaging%202.pdf">
+    </a></td>
+   <td><a href="https://github.com/JonLysons/Writing_Portfolio/blob/main/FocusOnImaging%202.pdf">
         <img src="https://user-images.githubusercontent.com/117950069/214640384-49078250-d02e-4395-830f-da792d25291a.jpg" alt="Focus On Imaging feature"
         width="200"/>
-    </a>
-    
+    </a> </td>
+    <td><a href="https://github.com/JonLysons/Writing_Portfolio/blob/main/FocusOnImaging%202.pdf">
+        <img src="https://user-images.githubusercontent.com/117950069/214640384-49078250-d02e-4395-830f-da792d25291a.jpg" alt="Focus On Imaging feature"
+        width="200"/>
+        </a> </td>
+    </tr>         
+    </table>
 </div>
+
