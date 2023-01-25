@@ -19,7 +19,7 @@ A selection of articles written by me. Specialist subjects include games, photog
         width="200" align="center"/>
             </a> </td>
         <td>&nbsp; &nbsp;</td>
-        <td style="padding:50px"><a href="https://github.com/JonLysons/Writing_Portfolio/blob/main/FocusOnImaging%202.pdf">
+        <td style="padding:50px"><a href="https://github.com/JonLysons/Writing_Portfolio/blob/main/BattleStations_Feature.pdf">
         <img src="https://user-images.githubusercontent.com/117950069/214640384-49078250-d02e-4395-830f-da792d25291a.jpg" alt="Focus On Imaging feature"
         width="200" align="center"/>
             </a> </td>
