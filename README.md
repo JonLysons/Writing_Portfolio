@@ -25,11 +25,11 @@ A selection of articles written by me. Specialist subjects include games, photog
             </a> </td>
     </tr>
     <tr>
-        <td>BattleStations feature</td>
+        <td align="center">BattleStations feature</td>
         <td>&nbsp;</td>
-        <td>Focus On Imaging feature</td>
+        <td align="center">Focus On Imaging feature</td>
         <td>&nbsp;</td>
-        <td>Focus On Imaging feature</td>
+        <td align="center">Focus On Imaging feature</td>
     </tr> 
     </table>
 </div>
