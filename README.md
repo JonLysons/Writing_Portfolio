@@ -53,5 +53,30 @@ A selection of articles written by me. Specialist subjects include games, photog
         <td align="center">InDesign’s Stylesheets</td>
     </tr> 
     </table> <br/>
+        <table>
+    <tr>    
+        <td><a href="https://github.com/JonLysons/Writing_Portfolio/blob/main/ApertureTutorial.pdf">
+        <img src="https://user-images.githubusercontent.com/117950069/214640384-49078250-d02e-4395-830f-da792d25291a.jpg" alt="Aperture Tutorial"
+        width="200" align="center"/>
+            </a></td>
+        <td>&nbsp; &nbsp;</td>
+        <td><a href="https://github.com/JonLysons/Writing_Portfolio/blob/main/ApertureTutorial_2.pdf">
+        <img src="https://user-images.githubusercontent.com/117950069/214640384-49078250-d02e-4395-830f-da792d25291a.jpg" alt="Aperture Tutorial"
+        width="200" align="center"/>
+            </a> </td>
+        <td>&nbsp; &nbsp;</td>
+        <td><a href="https://github.com/JonLysons/Writing_Portfolio/blob/main/ApertureTutorial_3.pdf">
+        <img src="https://user-images.githubusercontent.com/117950069/214640384-49078250-d02e-4395-830f-da792d25291a.jpg" alt="Aperture Tutorial"
+        width="200" align="center"/>
+            </a> </td>
+    </tr>
+    <tr>
+        <td align="center">Slideshow in Aperture</td>
+        <td>&nbsp;</td>
+        <td align="center">Aperture's adjustments</td>
+        <td>&nbsp;</td>
+        <td align="center">Manage Photos in Aperture</td>
+    </tr> 
+    </table> <br/>
 </div>
 
